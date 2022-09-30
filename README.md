@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1>Github stats</h1>
 
-<h1>Stats</h1>
-
-<!-- [![wakatime](https://wakatime.com/badge/user/a85c8493-8045-4c00-be84-a93f9481c284.svg)](https://wakatime.com/@a85c8493-8045-4c00-be84-a93f9481c284) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ricko0702&theme=github_dark">
 <img src="https://github-readme-stats.vercel.app/api?username=Ricko0702&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricko0702&theme=dark">
