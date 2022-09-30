@@ -17,8 +17,14 @@ Here are some ideas to get you started:
 
 <h1>Github stats</h1>
 
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ricko0702&theme=github_dark">
 <img src="https://github-readme-stats.vercel.app/api?username=Ricko0702&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricko0702&theme=dark">
+
+<h1>Time stats</h1>
+
+
+<img src="https://wakatime.com/share/@a85c8493-8045-4c00-be84-a93f9481c284/7da49258-266d-4bf8-91eb-bfc19cae4fd0.svg">
   
 
