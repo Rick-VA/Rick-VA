@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricko0702&theme=dark">
 
 <h1>Time stats</h1>
-
+<img src="https://wakatime.com/badge/user/a85c8493-8045-4c00-be84-a93f9481c284.svg">
 
 <img src="https://wakatime.com/share/@a85c8493-8045-4c00-be84-a93f9481c284/7da49258-266d-4bf8-91eb-bfc19cae4fd0.svg">
   
