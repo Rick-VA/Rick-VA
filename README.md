@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<h1>Stats</h1>
+
 <img src="https://wakatime.com/badge/user/a85c8493-8045-4c00-be84-a93f9481c284.svg">
-<h1>Github stats</h1>
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ricko0702&theme=github_dark">
