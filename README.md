@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://wakatime.com/badge/user/a85c8493-8045-4c00-be84-a93f9481c284.svg">
 <h1>Github stats</h1>
 
 
@@ -22,11 +23,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Ricko0702&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricko0702&theme=dark">
 
-<h1>Time stats</h1>
-<img src="https://wakatime.com/badge/user/a85c8493-8045-4c00-be84-a93f9481c284.svg">
 
-<h1>Wakatime stats</h1>
-<img src="https://wakatime.com/share/@a85c8493-8045-4c00-be84-a93f9481c284/7da49258-266d-4bf8-91eb-bfc19cae4fd0.svg">
-<img src="https://wakatime.com/share/@a85c8493-8045-4c00-be84-a93f9481c284/0772589c-8366-46f2-b798-e3f948782618.svg">
+
   
 
