@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ricko0702&theme=github_dark">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ricko0702&theme=github_dark">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ricko0702&theme=dark)](https://git.io/streak-stats)
 
 
 
