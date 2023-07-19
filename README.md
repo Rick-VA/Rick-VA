@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <b>About me</b>
 
 - 📚 Student Software Developer at Landstede MBO
-- 💼 Working for <a href="https://github.com/ScreendoekOpMaat-nl">screendoekopmaat </a>
+- 💼 Working for <a href="[https://github.com/ScreendoekOpMaat-nl](https://github.com/Tjalp-Products)">Tjalp Products </a>
 
 <h1>Stats</h1>
 
