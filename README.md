@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 📚 Student Software Developer at Landstede MBO
 - 💼 Working for <a href="https://github.com/Wenpro">Wenpro </a>
-- 🎓 Intern at <a href="https://github.com/brainhivenl">Brainhive </a<
+- 🎓 Intern at <a href="https://github.com/brainhivenl">Brainhive </a>
 
 <h1>Stats</h1>
 
