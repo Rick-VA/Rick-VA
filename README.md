@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <b>About me</b>
 
 - 📚 Student Software Developer at Landstede MBO
-- 💼 Working at <a href="https://github.com/brainhivenl">Brainhive </a>
+- 💼 Working at <a href="https://github.com/brainhivenl">brainhive </a>
 
 <h1>Stats</h1>
 
