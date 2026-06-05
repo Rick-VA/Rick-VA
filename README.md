@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 <b>About me</b>
 - 💼 Working as a software developer at <a href="https://github.com/brainhivenl">brainhive </a>
 
-<h1>Stats</h1>
-
-<img src="https://wakatime.com/badge/user/a85c8493-8045-4c00-be84-a93f9481c284.svg">
 
 
 
